@@ -1,4 +1,4 @@
-=== WordPress Turnstile or reCAPTCHA For All Pages, to Block Spam and Hackers Attack Plugin. ===
+# WordPress Turnstile or reCAPTCHA For All Pages, to Block Spam and Hackers Attack Plugin. #
 
 Plugin Name: reCAPTCHA For All
 Plugin URI: https://BillMinozzi.com/support/
