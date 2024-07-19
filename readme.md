@@ -15,7 +15,7 @@ Requires PHP: 5.6.20
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Revolutionize reCAPTCHA or Cloudflare Turnstile. Enjoy an analytics chart. Protect all or selected pages against spam and bots.Free!
+## Revolutionize reCAPTCHA or Cloudflare Turnstile. Enjoy an analytics chart. Protect all or selected pages against spam and bots.Free! ##
 
 == Description ==
 ★★★★★<br>
